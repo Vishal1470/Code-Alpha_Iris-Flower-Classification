@@ -50,7 +50,7 @@ Iris Flower Classification/
 
 │
 
-└dataset/
+└──dataset/
    ├── fresh/                   # Images of fresh flowers
    └──not_fresh/               # Images of wilted flowers
 
