@@ -52,7 +52,7 @@ Iris Flower Classification/
 └── dataset/
     ├── fresh/                   # Images of fresh flowers
     |
-    └── not_fresh/               # Images of wilted flowers
+    ├── not_fresh/               # Images of wilted flowers
 
 ⚙️ Installation and Setup
 1️⃣ Clone or Download
