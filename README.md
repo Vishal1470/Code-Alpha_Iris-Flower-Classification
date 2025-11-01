@@ -1,4 +1,5 @@
 🌸 Iris Flower Classification & Freshness Detection System
+
 📘 Overview
 
 This project is a Machine Learning + Computer Vision based application that classifies Iris flower species from numeric features and determines whether a flower is Fresh 🌼 or Not Fresh 🥀 using image processing.
@@ -50,7 +51,6 @@ Iris Flower Classification/
 
 └── dataset/
     ├── fresh/                   # Images of fresh flowers
-    
     └── not_fresh/               # Images of wilted flowers
 
 ⚙️ Installation and Setup
