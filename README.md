@@ -23,6 +23,7 @@ User-friendly interface made with Streamlit sliders and image upload functionali
 
 🏗️ Project Structure
 Iris Flower Classification/
+
 │
 
 ├── Iris.csv                     # Dataset for Iris classification
@@ -51,8 +52,8 @@ Iris Flower Classification/
 
 └── dataset/
     ├── fresh/                   # Images of fresh flowers
-    |
-    ├── not_fresh/               # Images of wilted flowers
+    
+    └──not_fresh/               # Images of wilted flowers
 
 ⚙️ Installation and Setup
 1️⃣ Clone or Download
