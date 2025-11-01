@@ -23,25 +23,39 @@ User-friendly interface made with Streamlit sliders and image upload functionali
 🏗️ Project Structure
 Iris Flower Classification/
 │
+
 ├── Iris.csv                     # Dataset for Iris classification
+
 ├── train_iris_model.py          # Train model for Iris species
+
 ├── train_freshness_model.py     # Train model for image-based freshness
+
 ├── app.py                       # Streamlit app combining both models
+
 │
+
 ├── models/
+
 │   ├── iris_model.joblib
+
 │   ├── scaler.joblib
+
 │   ├── label_encoder.joblib
+
 │   ├── freshness_model.joblib
+
 │   └── freshness_scaler.joblib
+
 │
+
 └── dataset/
     ├── fresh/                   # Images of fresh flowers
+    
     └── not_fresh/               # Images of wilted flowers
 
 ⚙️ Installation and Setup
 1️⃣ Clone or Download
-git clone https://github.com/yourusername/Iris-Flower-Classification.git
+git clone https://github.com/Vishal1470/Iris-Flower-Classification.git
 cd "Iris Flower Classification"
 
 2️⃣ Install Requirements
